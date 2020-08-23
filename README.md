@@ -1,7 +1,5 @@
-### About
+### :bowtie: 
 <p align="center">
-
-:bowtie: 
 
 <a href="https://www.linkedin.com/in/ssaugrin/">
   <img src="https://img.shields.io/badge/Linkedin-informational?style=for-the-badge&logo=linkedin&label=social">
