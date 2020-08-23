@@ -1,6 +1,8 @@
 ### About
 <p align="center">
 
+:bowtie: 
+
 <a href="https://www.linkedin.com/in/ssaugrin/">
   <img src="https://img.shields.io/badge/Linkedin-informational?style=for-the-badge&logo=linkedin&label=social">
 </a>
@@ -9,7 +11,7 @@
 
 <pre align="center">
 
-:bowtie: Si debugger, c’est supprimer des bugs, alors programmer ne peut être que les ajouter.
+Si debugger, c’est supprimer des bugs, alors programmer ne peut être que les ajouter.
 
                                                                 Edsger Dijkstra
 </pre>
