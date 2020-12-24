@@ -13,4 +13,3 @@ Si debugger, c’est supprimer des bugs, alors programmer ne peut être que les 
                                                                 Edsger Dijkstra
 </pre>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zourite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
