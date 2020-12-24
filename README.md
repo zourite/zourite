@@ -6,10 +6,10 @@
 
 </p>
 
-<pre align="center">
+```javascript
 
 Si debugger, c’est supprimer des bugs, alors programmer ne peut être que les ajouter.
 
                                                                 Edsger Dijkstra
-</pre>
+```
 
